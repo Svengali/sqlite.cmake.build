@@ -1,6 +1,0 @@
-C:/prg/candlecove/custom/sqlite.cmake.build/build/CMakeFiles/sqlite3-static.dir
-C:/prg/candlecove/custom/sqlite.cmake.build/build/CMakeFiles/sqlite3.dir
-C:/prg/candlecove/custom/sqlite.cmake.build/build/CMakeFiles/shell.dir
-C:/prg/candlecove/custom/sqlite.cmake.build/build/CMakeFiles/INSTALL.dir
-C:/prg/candlecove/custom/sqlite.cmake.build/build/CMakeFiles/ALL_BUILD.dir
-C:/prg/candlecove/custom/sqlite.cmake.build/build/CMakeFiles/ZERO_CHECK.dir
